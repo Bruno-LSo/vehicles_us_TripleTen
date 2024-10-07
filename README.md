@@ -1,7 +1,7 @@
 # vehicles_us_TripleTen
 Projeto TripleTen
 
-`Nesse projeto estamos executando uma série de funcionalidades aprendidas no sprint 5.`
+`Nesse projeto estamos executando uma série de funcionalidades aprendidas no sprint 5 do bootcamp de ciência de dados da TripleTen.`
 -------------
 `O link para o meu projeto é: https://vehicles-us-tripleten.onrender.com`
 
